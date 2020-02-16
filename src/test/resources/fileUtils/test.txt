@@ -1,0 +1,5 @@
+Przygotuj program, w którym będą
+żyły równocześnie dwa wątki – Jaśi
+Małgosia
+Wykonują oni różne rzeczy w domu,
+które zajmują różny czas
